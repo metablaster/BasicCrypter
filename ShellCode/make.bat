@@ -1,0 +1,1 @@
+gcc ShellcodeGenerator.c -o ShellcodeGenerator.exe -lmsvcrt

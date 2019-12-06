@@ -1,0 +1,1 @@
+gcc MessageBox.c -o MessageBox.exe -lmsvcrt -luser32
